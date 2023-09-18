@@ -1,0 +1,59 @@
+[{
+  "_id": {
+    "$oid": "6507b749a719b060d7feaefc"
+  },
+  "name": " AmanKumar",
+  "standerd": "12",
+  "marks": 200,
+  "rollnum": 189837
+},
+{
+  "_id": {
+    "$oid": "6507b9cca719b060d7feaefd"
+  },
+  "address": "raheemabad",
+  "town": "zaidpuer",
+  "pincode": "225414"
+},
+{
+  "_id": {
+    "$oid": "65086439ce19057022ed1064"
+  },
+  "name": "shubhashni Jaiswal",
+  "standerd": "B.A ",
+  "marks": 600,
+  "rollnum": {
+    "$numberLong": "22010101890013"
+  },
+  "Mobilenum": {
+    "$numberLong": "737625557099"
+  }
+},
+{
+  "_id": {
+    "$oid": "65086439ce19057022ed1065"
+  },
+  "Name": "Adatiya Patel",
+  "standerd": "B.SC",
+  "marks": 550,
+  "rollnum": {
+    "$numberLong": "22010769936"
+  },
+  "mobilenum": {
+    "$numberLong": "8921601378120"
+  }
+},
+{
+  "_id": {
+    "$oid": "65086439ce19057022ed1066"
+  },
+  "Name": "Ankurshinha",
+  "sataderd": "B.Tech",
+  "marks": 650,
+  "rollnum": {
+    "$numberLong": "18995010643410"
+  },
+  "mobilenum": {
+    "$numberLong": "3892743271"
+  }
+}]
