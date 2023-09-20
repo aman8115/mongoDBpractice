@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "650a5a582327d4a12ded437c"
+  },
+  "courseName": "Javadeveloper",
+  "courseDuration": " 5 hours",
+  "price": 3500,
+  "mentor": " ManviTayagi"
+},
+{
+  "_id": {
+    "$oid": "650a5a582327d4a12ded437d"
+  },
+  "courseName": "Datascience",
+  "courseDuration": "6 hours",
+  "price": 4000,
+  "mentor": "Shudhanshu"
+},
+{
+  "_id": {
+    "$oid": "650a5cd32327d4a12ded437e"
+  },
+  "courseName": " fullstack",
+  "courseDuration": "7 hours",
+  "price": 3500,
+  "mentor": " hitesh"
+},
+{
+  "_id": {
+    "$oid": "650a5cd32327d4a12ded437f"
+  },
+  "courseName": "Backenddevelopment",
+  "courseDuration": "6 hours",
+  "price": 600,
+  "mentor": " vishw mohan"
+},
+{
+  "_id": {
+    "$oid": "650a5e092327d4a12ded4380"
+  },
+  "courseName": " forntenddevelopment",
+  "courseDuration": " 5 hours",
+  "price": 500,
+  "mentor": " sanket singh"
+},
+{
+  "_id": {
+    "$oid": "650a5e092327d4a12ded4381"
+  },
+  "courseName": "Nodejs ",
+  "courseDuration": " 3 hours",
+  "price": 300,
+  "mentor": " hitesh"
+},
+{
+  "_id": {
+    "$oid": "650a5e092327d4a12ded4382"
+  },
+  "courseName": " javascript developer",
+  "courseDuration": " 1 month",
+  "price": 300,
+  "mentor": " chirag geol"
+},
+{
+  "_id": {
+    "$oid": "650a5fd02327d4a12ded4383"
+  },
+  "courseName": " C++",
+  "courseDuration": " 4 month",
+  "price": 300,
+  "mentor": " Anurag"
+},
+{
+  "_id": {
+    "$oid": "650a5fd02327d4a12ded4384"
+  },
+  "courseName": " ciyber security",
+  "courseDuration": " 6month",
+  "Price": 10000,
+  "mentor": " vishwa mohan"
+}]
