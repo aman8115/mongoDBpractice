@@ -1,0 +1,208 @@
+[{
+  "_id": {
+    "$oid": "650bb16a2f59f8299e19081c"
+  },
+  "Name": " saniGupat",
+  "Class": 1,
+  "Gendar": " male",
+  "DOB": " 2003-7-15 ",
+  "joiningDate": "2010-5-10"
+},
+{
+  "_id": {
+    "$oid": "650bb16a2f59f8299e19081d"
+  },
+  "Name": "Arun Kumar",
+  "Class": 1,
+  "Gendar": " male",
+  "DOB": "2001-2-1",
+  "joiningDate": "2008-10-2"
+},
+{
+  "_id": {
+    "$oid": "650bb36b2f59f8299e19081e"
+  },
+  "Name": " Ayushi ",
+  "Class": 2,
+  "Gendar": "Female",
+  "DOB": "2010-10-3",
+  "joiningDate": " 2016-4-5"
+},
+{
+  "_id": {
+    "$oid": "650bb36b2f59f8299e19081f"
+  },
+  "Name": " BhihariLal",
+  "Class": 9,
+  "Gendar": " male",
+  "DOB": "2003-10-6",
+  "joiningDate": "2011-4-10"
+},
+{
+  "_id": {
+    "$oid": "650bb36b2f59f8299e190820"
+  },
+  "Name": "Hansraj",
+  "Class": 10,
+  "Gendar": "male",
+  "DOB": "2007-8-9",
+  "joiningDate": "2010-10-11"
+},
+{
+  "_id": {
+    "$oid": "650bb5892f59f8299e190821"
+  },
+  "Name": "sadanand",
+  "Class": 6,
+  "Gendar": "male",
+  "DOB": " 2003-15-10",
+  "joiningDate": "20015-7-10"
+},
+{
+  "_id": {
+    "$oid": "650bb5892f59f8299e190822"
+  },
+  "Name": " Shubhash",
+  "Class": 9,
+  "Gendar": "male",
+  "DOB": "2004-9-10"
+},
+{
+  "_id": {
+    "$oid": "650bb5892f59f8299e190823"
+  },
+  "Name": "Shivani",
+  "Class": 6,
+  "Gendar": "Female",
+  "DOB": "2002-3-9"
+},
+{
+  "_id": {
+    "$oid": "650bb5892f59f8299e190824"
+  },
+  "Name": "Brijesh",
+  "Class": 9,
+  "Gendar": "male",
+  "DOB": "2001-12-2",
+  "joiningDate": "2015-7-3"
+},
+{
+  "_id": {
+    "$oid": "650bb8ca2f59f8299e190825"
+  },
+  "Name": " Bushra Khatoon",
+  "class": 6,
+  "Gendar": "Female",
+  "DOB": "2004-8-4",
+  "joiningDate": "2015-3-10"
+},
+{
+  "_id": {
+    "$oid": "650bb8ca2f59f8299e190826"
+  },
+  "Name": " sagunJaiswal",
+  "Class": 6,
+  "Gendar": "Female",
+  "DOB": "2003-2-30",
+  "joiningDate": "2015-8-10"
+},
+{
+  "_id": {
+    "$oid": "650bb8ca2f59f8299e190827"
+  },
+  "Name": "AnumRawat",
+  "Class": 9,
+  "Gendar": "female",
+  "DOB": "2005-1-2",
+  "joiningDate": "2015-7-5"
+},
+{
+  "_id": {
+    "$oid": "650bb8ca2f59f8299e190828"
+  },
+  "Name": "BharKha",
+  "Class": 11,
+  "Gendar": "Female",
+  "DOB": "2003-10-3",
+  "joiningDate": "2021-7-3"
+},
+{
+  "_id": {
+    "$oid": "650bb8ca2f59f8299e190829"
+  },
+  "Name": "Gulshan",
+  "Class": 11,
+  "Gendar": "Male",
+  "DOB": "2003-10-4",
+  "joiningDate": "2021-4-5"
+},
+{
+  "_id": {
+    "$oid": "650bb8ca2f59f8299e19082a"
+  },
+  "Name": "Gaurav",
+  "Class": 11,
+  "GEndar": "male",
+  "DOB": "2001-10-12",
+  "joiningDate": "2015-5-6"
+},
+{
+  "_id": {
+    "$oid": "650bb9d02f59f8299e19082b"
+  },
+  "Name": "shuhela",
+  "Class": 9,
+  "Gendar": "female",
+  "DOB": "2004-10-4",
+  "joiningDate": "2017-4-11"
+},
+{
+  "_id": {
+    "$oid": "650bba3c2f59f8299e19082c"
+  },
+  "Name": "Atul",
+  "Class": 11,
+  "Gendar": "male",
+  "DOB": "2003-12-1",
+  "joiningDate": "2021-5-3"
+},
+{
+  "_id": {
+    "$oid": "650bbaa12f59f8299e19082d"
+  },
+  "Name": "Parul",
+  "Class": 8,
+  "Gendar": "female",
+  "DOB": "2003-10-12",
+  "joiningDate": "2017-5-2"
+},
+{
+  "_id": {
+    "$oid": "650bbb172f59f8299e19082e"
+  },
+  "Name": "RohitKumar",
+  "class": 6,
+  "Gendar": "male",
+  "DOB": " 2001-12-19",
+  "joiningDtae": "2015-5-10"
+},
+{
+  "_id": {
+    "$oid": "650c4d9f5e19d3763f4f47be"
+  },
+  "Name": " Tahseen",
+  "Class": 9,
+  "Gendar": "female",
+  "DOM": " 2006-4-26",
+  "joiningDate": " 2023-7-15"
+},
+{
+  "_id": {
+    "$oid": "650c4d9f5e19d3763f4f47bf"
+  },
+  "Name": "AjurnNisha",
+  "Class": 10,
+  "Gendar": "female",
+  "DOB": "1999-12-10",
+  "joiningDate": "2015-10-12"
+}]
